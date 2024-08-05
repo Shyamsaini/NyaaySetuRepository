@@ -1,0 +1,11 @@
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\bin\Debug\net6.0\NyaaySetu.Models.deps.json
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\bin\Debug\net6.0\NyaaySetu.Models.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\bin\Debug\net6.0\NyaaySetu.Models.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\NyaaySetu.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\NyaaySetu.Models.AssemblyInfoInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\NyaaySetu.Models.AssemblyInfo.cs
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\NyaaySetu.Models.csproj.CoreCompileInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\NyaaySetu.Models.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\refint\NyaaySetu.Models.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\NyaaySetu.Models.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Models\obj\Debug\net6.0\ref\NyaaySetu.Models.dll

@@ -1,0 +1,12 @@
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\bin\Debug\net6.0\NyaaySetu.Data.deps.json
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\bin\Debug\net6.0\NyaaySetu.Data.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\bin\Debug\net6.0\NyaaySetu.Data.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.AssemblyInfoInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.AssemblyInfo.cs
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.csproj.CoreCompileInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\refint\NyaaySetu.Data.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\ref\NyaaySetu.Data.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Data\obj\Debug\net6.0\NyaaySetu.Data.csproj.AssemblyReference.cache

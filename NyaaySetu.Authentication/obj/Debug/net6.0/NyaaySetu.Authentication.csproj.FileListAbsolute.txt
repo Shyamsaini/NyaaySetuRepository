@@ -1,0 +1,15 @@
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\bin\Debug\net6.0\NyaaySetu.Authentication.deps.json
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\bin\Debug\net6.0\NyaaySetu.Authentication.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\bin\Debug\net6.0\NyaaySetu.Authentication.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\bin\Debug\net6.0\NyaaySetu.Models.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\bin\Debug\net6.0\NyaaySetu.Models.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.csproj.AssemblyReference.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.AssemblyInfoInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.AssemblyInfo.cs
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.csproj.CoreCompileInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySet.587BB0E7.Up2Date
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\refint\NyaaySetu.Authentication.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\NyaaySetu.Authentication.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Authentication\obj\Debug\net6.0\ref\NyaaySetu.Authentication.dll

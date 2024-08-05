@@ -1,0 +1,11 @@
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\bin\Debug\net6.0\NyaaySetu.Services.deps.json
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\bin\Debug\net6.0\NyaaySetu.Services.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\bin\Debug\net6.0\NyaaySetu.Services.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\NyaaySetu.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\NyaaySetu.Services.AssemblyInfoInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\NyaaySetu.Services.AssemblyInfo.cs
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\NyaaySetu.Services.csproj.CoreCompileInputs.cache
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\NyaaySetu.Services.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\refint\NyaaySetu.Services.dll
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\NyaaySetu.Services.pdb
+E:\Shyam\NyaaySetu_API\NyaaySetu.Services\obj\Debug\net6.0\ref\NyaaySetu.Services.dll
